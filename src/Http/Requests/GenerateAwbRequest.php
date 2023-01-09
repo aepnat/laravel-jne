@@ -85,7 +85,7 @@ class GenerateAwbRequest implements RequestContract
             'OLSHOP_DEST',
             'OLSHOP_SERVICE',
             'OLSHOP_COD_FLAG',
-            'OLSHOP_COD_AMOUNT',
+//            'OLSHOP_COD_AMOUNT',
         ];
 
         foreach ($requiredParams as $param) {
